@@ -1,0 +1,6 @@
+apiVersion: v2
+name: position-tracker
+description: A Helm chart for fleetman position-tracker
+type: application
+version: 0.3.0
+appVersion: "1.0.0"
